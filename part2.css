@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(235, 172, 78);
+}
+h1,h3,h2{
+    color: rgb(241, 147, 22);
+    text-align: center;
+    font-size: 40px;
+}
+
+#description{
+
+    background-color: bisque;
+    color:rgb(218, 150, 62);
+    text-align: center;
+    font-size: larger;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+}
+
+.nav{
+    background-color: aliceblue;
+    margin-right: 50px;
+    text-align: center;
+    font-size: larger;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#price {
+    
+    width: 25%;
+  }
+
+#photo{
+    width: 60%;
+    height: 60%;
+}
+
+#name{
+    width: 75%;
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-align: center;
+   
+    
+}
+
+#identity{
+    margin: 100px;
+    background-color: bisque;
+    color:rgb(218, 150, 62);
+    text-align: center;
+    font-size: larger;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 60px;
+}
+
+#products{
+    align-items: start;
+    display: flex;
+    flex-wrap: nowrap;
+ 
+}
+
+.prod{
+   
+    text-align: center;
+   
+}
+
+.text{
+    
+    text-align: center;
+}
